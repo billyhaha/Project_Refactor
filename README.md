@@ -1,6 +1,4 @@
 # Project_Refactor
-Refactor
-
 
 
 使用說明
@@ -50,4 +48,10 @@ Refactor
 
 額外功能：完成所有任務後，可解鎖指令soloman(玩家攻擊階段)，可直接擊敗場上所有敵人。
 
-注意事項：編譯時，請輸入javac -encoding utf-8 hw4.java以顯示中文。
+UML_Before
+![image](https://user-images.githubusercontent.com/88093504/197468693-8c44b026-dcec-4531-af0d-5a02cb1ee65f.png)
+
+UML_After
+![image](https://user-images.githubusercontent.com/88093504/197468729-c5ac25ef-9fc0-495d-81a1-e6d501b96a08.png)
+
+
